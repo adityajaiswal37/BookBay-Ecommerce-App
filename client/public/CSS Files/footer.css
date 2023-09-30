@@ -1,0 +1,37 @@
+/* ------------------Footer CSS------------------ */
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    color: black;
+    padding: 25px;
+    background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  }
+  
+  .footer a:hover {
+    border-bottom: 2px solid black;
+  }
+.footer{
+    width: 100%;
+    position: relative;
+    left: 0;
+    right: 0;
+    text-decoration: none;
+}
+.lower-footer{
+    text-decoration: none;
+}
