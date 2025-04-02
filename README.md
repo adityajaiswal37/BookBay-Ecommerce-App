@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, reach out to **Aditya Jaiswal** at [your-email@example.com] or connect via LinkedIn.
+For any inquiries or feedback, reach out to **Aditya Jaiswal** at adijaiswal0011@gmail.com or connect via LinkedIn.
 
